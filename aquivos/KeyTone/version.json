@@ -1,4 +1,5 @@
 {
     "versao": "2.0",
-    "linkDownload": "https://example.com/download"
+    "linkDownload": "https://example.com/download",
+    "descricao": "Novas funcionalidades e melhorias."
 }
