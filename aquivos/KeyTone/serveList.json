@@ -1,0 +1,14 @@
+[
+  {
+      "id": 1,
+      "name": "Perfil 1",
+      "version": "1.0",
+      "downloadLink": "https://example.com/perfil1.zip"
+  },
+  {
+      "id": 2,
+      "name": "Perfil 2",
+      "version": "1.2",
+      "downloadLink": "https://example.com/perfil2.zip"
+  }
+]
