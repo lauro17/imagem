@@ -1,14 +1,14 @@
 [
   {
       "id": 1,
-      "name": "Perfil 1",
+      "name": "default",
       "version": "1.0",
-      "downloadLink": "https://github.com/lauro17/Imagem/blob/master/aquivos/KeyTone/AnaliseEmCurso/alfabeto.zip"
+      "downloadLink": "https://github.com/lauro17/Imagem/blob/master/aquivos/KeyTone/AnaliseEmCurso/default.zip"
   },
   {
       "id": 2,
-      "name": "Perfil 2",
+      "name": "alfabeto",
       "version": "1.2",
-      "downloadLink": "https://github.com/lauro17/Imagem/blob/master/aquivos/KeyTone/AnaliseEmCurso/default.zip"
+      "downloadLink": "https://github.com/lauro17/Imagem/blob/master/aquivos/KeyTone/AnaliseEmCurso/alfabeto.zip"
   }
 ]
